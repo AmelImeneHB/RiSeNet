@@ -1,4 +1,4 @@
-# RiseNet
+# RiSeNet
 
 **Reinforcement Learning on Deep Supervision**
 
