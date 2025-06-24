@@ -4,7 +4,7 @@
 
 A reinforcement learning framework that dynamically optimizes deep supervision weights during training for improved segmentation performance.
 
-![RiseNet Principle](assets/risenet_principle.tiff)
+![RiseNet Principle](documentation/assets/risenet_principle.tiff)
 
 ## What is RiseNet?
 
