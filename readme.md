@@ -36,7 +36,8 @@ nnUNetv2_train DATASET_ID 3d_fullres FOLD -tr nnUNetTrainer_RL
 from risenet import RLDeepSupervisionWrapper, ConvergenceOptimizer
 
 # Initialize RL optimizer
-optimizer = ConvergenceOptimizer(num_levels=5)
+num_levels = len(deep_supervision_scales)
+optimizer = ConvergenceOptimizer(num_levels)
 loss_fn = RLDeepSupervisionWrapper(base_loss, optimizer)
 
 # Use in training loop
