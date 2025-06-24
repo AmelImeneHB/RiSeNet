@@ -52,7 +52,7 @@ For detailed methodology and experimental results, see our paper: https://ieeexp
 ```bibtex
 @software{RiSeNet,
   title={3D Semantic Segmentation of Airway Abnormalities on UTE-MRI with Reinforcement Learning on Deep Supervision},
-  author={Amel Imene Hadj Bouzid; Fabien Baldacci; Baudouin Denis De Senneville; Wadie Ben Hassen; Ilyes Benlala; Patrick Berger,Gael Dournes},
+  author={Amel Imene Hadj Bouzid; Fabien Baldacci; Baudouin Denis De Senneville; et al.},
   year={2025},
   url={https://github.com/AmelImeneHB/RiSeNet}
 }
