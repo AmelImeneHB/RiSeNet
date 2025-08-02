@@ -4,8 +4,6 @@
 
 A reinforcement learning framework that dynamically optimizes deep supervision weights during training for improved segmentation performance.
 
-![RiseNet Principle](documentation/assets/risenet.png)
-
 ## What is RiSeNet?
 
 RiseNet uses reinforcement learning to automatically adjust deep supervision weights in real-time during training, replacing static weight configurations with adaptive optimization.
